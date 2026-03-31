@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/divyanshililhore/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/divyanshililhore/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/divyanshililhore/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/divyanshililhore/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/divyanshililhore/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/divyanshililhore/75DaysLeetCodeChallenge/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Binary Search
 |  |
@@ -114,4 +116,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/divyanshililhore/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/divyanshililhore/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Recursion
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/divyanshililhore/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Simulation
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/divyanshililhore/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
